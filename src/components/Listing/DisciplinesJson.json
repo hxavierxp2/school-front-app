@@ -1,0 +1,47 @@
+[
+    {
+        "subject-name": "Matemática",
+        "subject-code": "MAT101",
+        "description": "Estudo das operações básicas e avançadas da matemática.",
+        "workload": "60",
+        "school-year": "1",
+        "semester": "1",
+        "responsible-teacher": "Matheus"
+    },
+    {
+        "subject-name": "História",
+        "subject-code": "HIS102",
+        "description": "Análise dos eventos históricos e suas consequências.",
+        "workload": "45",
+        "school-year": "1",
+        "semester": "1",
+        "responsible-teacher": "Alex"
+    },
+    {
+        "subject-name": "Química",
+        "subject-code": "QUI201",
+        "description": "Estudo dos elementos químicos e suas reações.",
+        "workload": "50",
+        "school-year": "2",
+        "semester": "1",
+        "responsible-teacher": "Thiago"
+    },
+    {
+        "subject-name": "Física",
+        "subject-code": "FIS202",
+        "description": "Análise das leis da física e suas aplicações práticas.",
+        "workload": "55",
+        "school-year": "2",
+        "semester": "2",
+        "responsible-teacher": "Guilherme"
+    },
+    {
+        "subject-name": "Literatura",
+        "subject-code": "LIT301",
+        "description": "Exploração dos principais autores e obras literárias.",
+        "workload": "40",
+        "school-year": "3",
+        "semester": "1",
+        "responsible-teacher": "João"
+    }
+]

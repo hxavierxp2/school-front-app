@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Ana Silva",
+        "dob": "1980-05-22",
+        "cpf": "12345678901",
+        "email": "ana.silva@example.com",
+        "phone": "21987654321",
+        "address": "Rua das Flores, 45, Rio de Janeiro",
+        "subject": "Matemática",
+        "registration-number": "MAT123",
+        "workload": "20",
+        "work-shift": "Manhã",
+        "previous-school": "Escola ABC",
+        "experience-years": "15"
+    },
+    {
+        "name": "Carlos Souza",
+        "dob": "1975-11-15",
+        "cpf": "23456789012",
+        "email": "carlos.souza@example.com",
+        "phone": "21976543210",
+        "address": "Avenida das Américas, 1234, Rio de Janeiro",
+        "subject": "História",
+        "registration-number": "HIS456",
+        "workload": "25",
+        "work-shift": "Tarde",
+        "previous-school": "Colégio XYZ",
+        "experience-years": "20"
+    },
+    {
+        "name": "Maria Oliveira",
+        "dob": "1988-03-30",
+        "cpf": "34567890123",
+        "email": "maria.oliveira@example.com",
+        "phone": "21965432109",
+        "address": "Rua do Catete, 89, Rio de Janeiro",
+        "subject": "Química",
+        "registration-number": "QUI789",
+        "workload": "18",
+        "work-shift": "Manhã",
+        "previous-school": "Instituto DEF",
+        "experience-years": "10"
+    },
+    {
+        "name": "João Pereira",
+        "dob": "1972-08-09",
+        "cpf": "45678901234",
+        "email": "joao.pereira@example.com",
+        "phone": "21954321098",
+        "address": "Rua das Laranjeiras, 300, Rio de Janeiro",
+        "subject": "Física",
+        "registration-number": "FIS321",
+        "workload": "22",
+        "work-shift": "Noite",
+        "previous-school": "Escola GHI",
+        "experience-years": "25"
+    },
+    {
+        "name": "Patrícia Costa",
+        "dob": "1985-12-01",
+        "cpf": "56789012345",
+        "email": "patricia.costa@example.com",
+        "phone": "21943210987",
+        "address": "Rua da Praia, 234, Rio de Janeiro",
+        "subject": "Literatura",
+        "registration-number": "LIT654",
+        "workload": "15",
+        "work-shift": "Manhã",
+        "previous-school": "Colégio JKL",
+        "experience-years": "12"
+    }
+]
