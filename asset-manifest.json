@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/school-front-app/static/css/main.03489d84.css",
-    "main.js": "/school-front-app/static/js/main.bab11483.js",
+    "main.js": "/school-front-app/static/js/main.8d92894b.js",
     "static/js/453.a6a97343.chunk.js": "/school-front-app/static/js/453.a6a97343.chunk.js",
     "static/media/bg-login.png": "/school-front-app/static/media/bg-login.e921d753eb8b45616fdd.png",
     "index.html": "/school-front-app/index.html",
     "main.03489d84.css.map": "/school-front-app/static/css/main.03489d84.css.map",
-    "main.bab11483.js.map": "/school-front-app/static/js/main.bab11483.js.map",
+    "main.8d92894b.js.map": "/school-front-app/static/js/main.8d92894b.js.map",
     "453.a6a97343.chunk.js.map": "/school-front-app/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03489d84.css",
-    "static/js/main.bab11483.js"
+    "static/js/main.8d92894b.js"
   ]
 }
